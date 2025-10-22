@@ -30,6 +30,7 @@ Each service focuses on a specific business function and can be developed, deplo
 │   └── index.php
 └── mysql/ (if configured for persistence or custom scripts)
 
+
 🛠️ Services Defined in docker-compose.yml
 ✅ 1. Web Service (php)
 Uses the php:7.3.3-apache image.
