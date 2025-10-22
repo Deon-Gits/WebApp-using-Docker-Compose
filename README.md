@@ -1,4 +1,5 @@
-🐳 Dockerized Web Application Using Docker Compose
+🐳 **Dockerized Web Application Using Docker Compose**
+
 📌 Overview
 
 This project demonstrates how to set up a containerized development environment using Docker Compose following a microservices architecture.
