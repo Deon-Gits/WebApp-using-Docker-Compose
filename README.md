@@ -5,8 +5,8 @@
 This project demonstrates how to set up a containerized development environment using Docker Compose following a microservices architecture.
 It consists of two main services:
 
-PHP & Apache Web Server
-MySQL Database Server
+<ol>PHP & Apache Web Server</ol>
+<ol>MySQL Database Server</ol>
 
 The connection between the PHP application and the database is established using the MySQLi module.
 
