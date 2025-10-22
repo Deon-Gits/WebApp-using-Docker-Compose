@@ -24,11 +24,11 @@ Each service focuses on a specific business function and can be developed, deplo
 
 📁** Project Structure**
 .
-├── docker-compose.yml
-├── php/
-│   ├── Dockerfile
-│   └── index.php
-└── mysql/ (if configured for persistence or custom scripts)
+├── docker-compose.yml</br>
+├── php/ </br>
+│   ├── Dockerfile </br>
+│   └── index.php </br>
+└── mysql/ (if configured for persistence or custom scripts) </br>
 
 
 🛠️ **Services Defined in docker-compose.yml**
